@@ -1,0 +1,175 @@
+body {background-color: #00ABB3;
+text-align: center;
+margin:0;
+font-family: 'Merriweather', serif;}
+
+hr {border-color:#9DF3C4;
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 10%;
+}
+h1{color:#1FAB89;
+font-family: 'Sacramento', cursive;
+font-size: 5.625rem;}
+
+h2{color:black;
+  font-family: 'Montserrat', sans-serif;
+font-size: 2.8rem;
+font-weight:900;
+line-height: 2;}
+
+h3{color:black;
+  font-family: 'Montserrat', sans-serif;
+font-size: 1.4rem;}
+
+ p {width: 800px;
+ margin: auto;}
+
+.menu-diego{
+height: 600px;
+width: 17%;
+display: inline-block;
+background-color: #256D85;
+position: absolute;
+left: 0;
+}
+
+.menu-camel{
+height: 600px;
+width: 16.6%;
+display: inline-block;
+background-color: #3C4048;
+position: absolute;
+left:17%;
+}
+
+.menu-samu{
+height: 600px;
+width: 16.6%;
+display: inline-block;
+background-color: #256D85;
+position: absolute;
+left:33.6%;
+}
+
+.menu-reds{
+height: 600px;
+width: 16.6%;
+display: inline-block;
+background-color: #3C4048;
+position: absolute;
+left:50.2%;}
+
+.menu-pepe{
+height: 600px;
+width: 16.6%;
+display: inline-block;
+background-color: #256D85;
+position: absolute;
+left:66.8%;}
+
+.menu-chamo{
+height: 600px;
+width: 16.6%;
+display: inline-block;
+background-color: #3C4048;
+position: absolute;
+left:83.4%;}
+
+.menu-foto-diego{
+height: 300px;
+width: 13%;
+display: inline-block;
+position: absolute;
+left: 1.8rem;
+border-radius: 70%;
+top:1550px;
+}
+
+.menu-foto-camel{
+height: 300px;
+width: 14%;
+display: inline-block;
+position: absolute;
+left: 22rem;
+border-radius: 70%;
+top:1550px
+}
+.menu-foto-samu{
+height: 300px;
+width: 13%;
+display: inline-block;
+position: absolute;
+left: 42rem;
+border-radius: 70%;
+top:1550px
+}
+.menu-foto-reds{
+height: 300px;
+width: 13%;
+display: inline-block;
+position: absolute;
+left: 62rem;
+border-radius: 70%;
+top:1550px
+}
+.menu-foto-pepe{
+height: 300px;
+width: 13%;
+display: inline-block;
+position: absolute;
+left: 82rem;
+border-radius: 70%;
+top:1550px
+}
+.menu-foto-chamo{
+height: 300px;
+width: 13%;
+display: inline-block;
+position: absolute;
+left: 102rem;
+border-radius: 70%;
+top:1550px
+}
+.container-one{
+background-color: #00ABB3;
+position: relative;
+padding: 100px;
+}
+
+.container-two{
+background-color: #3C4048;
+position: relative;
+padding: 100px;
+}
+
+.container-three{height: 100px;
+}
+.container-four{height: 600px;
+  width: 100%;
+  background-color: #3C4048;
+}
+
+.top-cloud{
+  position: absolute;
+  top:50px;
+  right:400px ;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom:400px ;
+  left: 400px ;
+}
+.hasbu{
+  height: 150px;
+  width: 150px;
+  position:absolute;
+  left:50px;
+  top:20px;
+}
+.diegui{
+  border-radius: 50%;
+}
+.skill-row{
+
+}
